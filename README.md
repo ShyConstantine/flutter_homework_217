@@ -1,6 +1,6 @@
 # flutter_homework_217
 
-A new Flutter project.
+Homework from UdemyLessons 
 
 ## Getting Started
 
